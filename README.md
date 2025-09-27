@@ -90,7 +90,7 @@ memakai fitur dari [wwebjs](https://wwebjs.dev/), code ini mampu menerima pesan 
 
 ### Special Thanks To :
 `Deepseek`
-`[wwebjs.dev/](https://wwebjs.dev/)`
+`wwebjs`
 `python - thinker`
 `javascript edition`
 `my brain :3`
