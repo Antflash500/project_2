@@ -1,0 +1,4 @@
+pygame==2.5.0
+websocket-server==0.4.1
+tkinter
+pillow==10.0.1

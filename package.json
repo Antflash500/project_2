@@ -1,0 +1,14 @@
+{
+  "name": "wa-notifier",
+  "version": "1.0.0",
+  "description": "WhatsApp Notifier with Custom Sounds",
+  "main": "whatsapp-bot.js",
+  "scripts": {
+    "start": "node whatsapp-bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "ws": "^8.14.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

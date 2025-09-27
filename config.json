@@ -1,0 +1,8 @@
+{
+    "priority_contacts": [
+        "6283122085487@c.us",
+        "6282315550135@c.us"
+    ],
+    "notification_timeout": 5000,
+    "cooldown_period": 30
+}
