@@ -26,7 +26,7 @@ memakai fitur dari [wwebjs](https://wwebjs.dev/), code ini mampu menerima pesan 
         "6282315550135@c.us"       > ganti nomer nya
     ],
    ```
-5. masukkan perintah `npm install` untuk menginstall `library .js` nya
+5. masukkan perintah `npm install` untuk menginstall `library.js` nya
 6. jalankan perintah berikut :
    ```
    # Terminal 1 - WhatsApp Bot
